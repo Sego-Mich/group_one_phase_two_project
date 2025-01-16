@@ -8,10 +8,12 @@ The project focuses on analyzing movie datasets to provide actionable insights f
 - To analyze movie data and uncover key patterns in revenue, popularity, ratings, and director influence across genres, providing actionable insights for business growth and strategic decision-making.
 
 ## Specific Objectives
-1. To identify the movie genres that generate the highest revenue and analyze the factors contributing to their financial success.
-2. To explore audience preferences and uncover the genres that resonate most with viewers, as well as the drivers behind their popularity.
-3. To evaluate the ratings of movies across different genres and assess trends in critical and audience reception.
-4. To examine the role of directors in shaping specific genres and assess their impact on genre success.
+1. Identify the movie genres that generate the highest revenue and analyze the factors contributing to their financial success.
+2. Explore audience preferences to uncover the most popular genres and the drivers behind their popularity.
+3. Evaluate the ratings of movies across genres to assess trends in critical and audience reception.
+4. Examine the role and impact of directors on the success of specific genres.
+5. Identify top-performing movies within their respective genres.
+6. Highlight the most successful and influential directors based on revenue and popularity.
 
 ## Datasets Used
 The analysis leverages multiple datasets from reputable sources, including:
@@ -65,9 +67,9 @@ View the tableau dashboard here: https://public.tableau.com/views/P2TableauAnaly
 7. Release Timing: Average ratings peaked in recent years, suggesting growing audience satisfaction with newer movies.
 
 ## Recommendations
-1. Focus on Action and Comedy Genres: Prioritize these genres for future productions as they are the most lucrative and widely appreciated.
-2. Collaborate with Top Directors and Writers: Partner with highly rated directors (e.g., Steven Spielberg, Clint Eastwood) and writers (e.g., Woody Allen) to enhance critical reception.
-3. Optimize Runtimes: Align runtimes with audience preferences; longer runtimes work better for Action and Adventure movies, while shorter runtimes suit genres like Animation.
-4. Invest in Universal Pictures for Distribution: Leverage their proven track record in generating high ratings.
-5. Release Timing: Continue to capitalize on recent years' success by studying factors driving improved ratings and aligning release dates with peak audience periods.
-6. Budget Allocation: Strategically invest higher budgets in Comedy and Drama projects to maximize returns.
+1. Prioritize Action and Comedy genres for future productions, as they have proven to be the most lucrative and widely appreciated.
+2. Partner with top-rated directors (e.g., Steven Spielberg, Clint Eastwood) and writers (e.g., Woody Allen) to enhance critical and audience reception.
+3. Optimize movie runtimes based on audience preferences; longer runtimes for Action and Adventure, and shorter runtimes for genres like Animation.
+4. Leverage Universal Pictures for distribution due to their strong track record in generating high ratings.
+6. Align release dates with peak audience periods by studying factors driving improved ratings in recent years.
+7. Allocate higher budgets strategically to Comedy and Drama projects to maximize financial returns.
