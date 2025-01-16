@@ -1,6 +1,5 @@
 # Phase 2 Project
 # Movie Industry Analysis
-
 ## Overview
 The project focuses on analyzing movie datasets to provide actionable insights for the creation of a new movie studio. Using data visualization and analysis tools, such as Tableau, the project aims to identify trends and patterns in the movie industry, including top-performing genres, audience preferences, and revenue-driving factors.
 
@@ -14,6 +13,14 @@ The project focuses on analyzing movie datasets to provide actionable insights f
 4. Examine the role and impact of directors on the success of specific genres.
 5. Identify top-performing movies within their respective genres.
 6. Highlight the most successful and influential directors based on revenue and popularity.
+
+# Methodology
+Business Understanding
+Data Understanding
+Data Preparation
+Modeling
+Evaluation
+Deployment
 
 ## Datasets Used
 The analysis leverages multiple datasets from reputable sources, including:
