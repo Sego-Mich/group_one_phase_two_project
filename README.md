@@ -74,9 +74,10 @@ View the tableau dashboard here: https://public.tableau.com/views/P2TableauAnaly
 7. Release Timing: Average ratings peaked in recent years, suggesting growing audience satisfaction with newer movies.
 
 ## Recommendations
-1. Prioritize Action and Comedy genres for future productions, as they have proven to be the most lucrative and widely appreciated.
+1. Prioritize Action and Comedy genres and drama for future productions, as they have proven to be the most lucrative and widely appreciated.
 2. Partner with top-rated directors (e.g., Steven Spielberg, Clint Eastwood) and writers (e.g., Woody Allen) to enhance critical and audience reception.
 3. Optimize movie runtimes based on audience preferences; longer runtimes for Action and Adventure, and shorter runtimes for genres like Animation.
-4. Leverage Universal Pictures for distribution due to their strong track record in generating high ratings.
+5. Leverage Universal Pictures for distribution due to their strong track record in generating high ratings.
 6. Align release dates with peak audience periods by studying factors driving improved ratings in recent years.
 7. Allocate higher budgets strategically to Comedy and Drama projects to maximize financial returns.
+8. Finally we recommend that the studio make adult films as it is the most popular among the audiences
